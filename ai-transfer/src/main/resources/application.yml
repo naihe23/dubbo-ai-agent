@@ -8,5 +8,10 @@ spring:
         options:
           model: gpt-5.4
       base-url: https://aicloudroute.com
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.200.10:7001/dev_jupiter?useUnicode=true&characterEncoding=utf8&autoReconnect=true&allowMultiQueries=true
+    username: dev_jupiter
+    password: Ysbmdu3q
 server:
   port: 8074

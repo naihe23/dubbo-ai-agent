@@ -1,0 +1,34 @@
+2026-07-03 15:11:00.049 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Starting AiTransferApplication using Java 21.0.10 with PID 42020 (D:\anji\dz\dubbo-ai-agent\ai-transfer\target\classes started by zhangjw in D:\anji\dz\dubbo-ai-agent)
+2026-07-03 15:11:00.051 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-03 15:11:00.400 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Started AiTransferApplication in 0.857 seconds (process running for 1.733)
+2026-07-03 15:12:14.581 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Starting AiTransferApplication using Java 21.0.10 with PID 30424 (D:\anji\dz\dubbo-ai-agent\ai-transfer\target\classes started by zhangjw in D:\anji\dz\dubbo-ai-agent)
+2026-07-03 15:12:14.584 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-03 15:12:14.903 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Started AiTransferApplication in 0.848 seconds (process running for 1.804)
+2026-07-03 15:13:40.150 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Starting AiTransferApplication using Java 21.0.10 with PID 10372 (D:\anji\dz\dubbo-ai-agent\ai-transfer\target\classes started by zhangjw in D:\anji\dz\dubbo-ai-agent)
+2026-07-03 15:13:40.153 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-03 15:13:40.619 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Started AiTransferApplication in 1.241 seconds (process running for 2.382)
+2026-07-03 15:14:37.099 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Starting AiTransferApplication using Java 21.0.10 with PID 31652 (D:\anji\dz\dubbo-ai-agent\ai-transfer\target\classes started by zhangjw in D:\anji\dz\dubbo-ai-agent)
+2026-07-03 15:14:37.101 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-03 15:14:37.427 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Started AiTransferApplication in 0.856 seconds (process running for 1.76)
+2026-07-03 15:24:30.517 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Starting AiTransferApplication using Java 21.0.10 with PID 29584 (D:\anji\dz\dubbo-ai-agent\ai-transfer\target\classes started by zhangjw in D:\anji\dz\dubbo-ai-agent)
+2026-07-03 15:24:30.519 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-03 15:24:30.882 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Started AiTransferApplication in 0.896 seconds (process running for 1.48)
+2026-07-03 15:26:41.523 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Starting AiTransferApplication using Java 21.0.10 with PID 43360 (D:\anji\dz\dubbo-ai-agent\ai-transfer\target\classes started by zhangjw in D:\anji\dz\dubbo-ai-agent)
+2026-07-03 15:26:41.525 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-03 15:26:41.864 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Started AiTransferApplication in 0.888 seconds (process running for 1.879)
+2026-07-03 15:27:41.230 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Starting AiTransferApplication using Java 21.0.10 with PID 3040 (D:\anji\dz\dubbo-ai-agent\ai-transfer\target\classes started by zhangjw in D:\anji\dz\dubbo-ai-agent)
+2026-07-03 15:27:41.238 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-03 15:27:41.840 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Started AiTransferApplication in 2.447 seconds (process running for 4.077)
+2026-07-03 15:37:30.727 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Starting AiTransferApplication using Java 21.0.10 with PID 14152 (D:\anji\dz\dubbo-ai-agent\ai-transfer\target\classes started by zhangjw in D:\anji\dz\dubbo-ai-agent)
+2026-07-03 15:37:30.729 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - No active profile set, falling back to 1 default profile: "default"
+2026-07-03 15:37:31.629 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port 8074 (http)
+2026-07-03 15:37:31.642 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8074"]
+2026-07-03 15:37:31.644 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2026-07-03 15:37:31.644 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.55]
+2026-07-03 15:37:31.693 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2026-07-03 15:37:31.694 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 911 ms
+2026-07-03 15:37:32.494 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8074"]
+2026-07-03 15:37:32.506 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port 8074 (http) with context path '/'
+2026-07-03 15:37:32.513 [main] INFO  com.dubboai.aitransfer.AiTransferApplication - Started AiTransferApplication in 2.579 seconds (process running for 3.985)
+2026-07-03 15:37:45.151 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2026-07-03 15:37:45.157 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown - Graceful shutdown complete
